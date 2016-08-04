@@ -1,0 +1,32 @@
+_repo: The-Pupil_1032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: 'The poor young man hesitated and procrastinated: it cost him such an
+  effort to broach the subject of terms, to speak of money to a person who spoke only
+  of feelings and, as it were, of the aristocracy. Yet he was unwilling to take leave,
+  treating his engagement as settled, without some more conventional glance in that
+  direction than he could find and opening for in the manner of the large affable
+  lady who sat there drawing a pair of soiled gants de Suede through a fat jewelled
+  hand and, at once pressing and gliding, repeated over and over everything but the
+  thing he would have liked to hear.'
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Pupil
+url: http://www.gutenberg.org/ebooks/1032
