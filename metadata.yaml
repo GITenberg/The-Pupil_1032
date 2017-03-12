@@ -1,5 +1,8 @@
 _repo: The-Pupil_1032
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -16,6 +19,8 @@ description: 'The poor young man hesitated and procrastinated: it cost him such 
   lady who sat there drawing a pair of soiled gants de Suede through a fat jewelled
   hand and, at once pressing and gliding, repeated over and over everything but the
   thing he would have liked to hear.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1032#The-Pupil
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
